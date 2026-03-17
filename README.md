@@ -1,4 +1,4 @@
-# PS2Link
+<img width="480" alt="logo-ps2" src="https://github.com/user-attachments/assets/4d5c88e5-5e13-4d17-8cfc-69d36d362075" />
 
 **PS2Link** is a **PlayStation 2 debugging and communication tool** that allows a PC to interact with the PS2 over a network connection. It provides a console, file transfer, and debugging interface, enabling developers to run and debug `.ELF` applications on the PS2 from a PC.
 
